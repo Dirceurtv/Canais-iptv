@@ -4,10 +4,10 @@
  
 ################################################################################# Informações da Lista
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista","PIX/PARA CONTINUAR ATUALIZANDO",44998656144
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",PIX/PARA CONTINUAR ATUALIZANDO 44998656144
 https://www.youtube.com/
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista","QUER UM TESTE CHAMA",Whats (44)98656144 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",QUER UM TESTE CHAMA Whats (44)98656144 
 https://www.youtube.
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:10/07/2024 
